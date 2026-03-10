@@ -1,0 +1,18 @@
+# Blood Cell Analysis Application Dependencies
+
+# GUI
+PyQt6>=6.4.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+timm>=0.9.0
+
+# Image Processing
+opencv-python>=4.8.0
+Pillow>=9.0.0
+
+# Utilities
+numpy>=1.24.0
+gdown>=4.7.0
