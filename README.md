@@ -14,10 +14,13 @@ A desktop application for automated malaria detection in blood cell microscopy i
 
 ## Screenshots
 
-The application provides:
+![Blood Cell Analyzer Demo](assets/demo.png)
+
+**Key UI features:**
 - Modern dark-themed interface
-- Color-coded bounding boxes per cell type
-- Interactive ROI selection with detailed classification results
+- Color-coded bounding boxes per cell type (Green=Healthy, Red=Ring, Orange=Trophozoite, Purple=Schizont, Blue=Gametocyte)
+- Interactive ROI selection with per-class confidence probabilities
+- Summary panel with cell counts by category
 - Thumbnail bar for navigating uploaded images
 
 ## Installation
